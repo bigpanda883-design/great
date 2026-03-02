@@ -8,3 +8,8 @@ h1{
     color: green;
     font-size: 50px;
 }
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
